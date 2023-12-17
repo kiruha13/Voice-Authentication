@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoiceAUTH", "VoiceAUTH\VoiceAUTH.csproj", "{13FFB57A-9FA5-4530-81F5-78A1EB6650B8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "voice", "voice\voice.vdproj", "{A711B67D-BB82-452E-945C-A4724C4A538B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13FFB57A-9FA5-4530-81F5-78A1EB6650B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FFB57A-9FA5-4530-81F5-78A1EB6650B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FFB57A-9FA5-4530-81F5-78A1EB6650B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FFB57A-9FA5-4530-81F5-78A1EB6650B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A711B67D-BB82-452E-945C-A4724C4A538B}.Debug|Any CPU.ActiveCfg = Debug
+		{A711B67D-BB82-452E-945C-A4724C4A538B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8A87C94-F803-4F5A-B5D4-0D3DE53ACF50}
+	EndGlobalSection
+EndGlobal
